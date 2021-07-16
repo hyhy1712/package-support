@@ -98,4 +98,5 @@ interface PrettyResponder
      * @return \Illuminate\Http\Response
      */
     public function respond($code = 0, $message = null, $data = null, array $trace = null, array $headers = [], $httpCode = 200);
+
 }
