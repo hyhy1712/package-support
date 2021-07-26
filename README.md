@@ -1,2 +1,1 @@
-# package-support
-Package support
+#Đăng ký RequestServiceProvider ở file boostrap
